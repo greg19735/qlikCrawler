@@ -6,6 +6,8 @@ from functions import isSite
 from functions import remove_url_anchor
 import time
 import requests
+import os
+
 
 
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
@@ -19,6 +21,8 @@ ssl._create_default_https_context = ssl._create_unverified_context
 sleeptime = 0.5
 
 def crawlPage(startSite, domain, siteName, fileName):
+
+
 
     siteQueue = []
     crawledList = []
@@ -111,6 +115,16 @@ def crawlPage(startSite, domain, siteName, fileName):
 
             print("redirecting: " + site + " to " + redirecturl )
 
+    currentPath = os.path.dirname(os.path.realpath(__file__))
+    folderPath = currentPath + "\\files"
+    if (not os.path.exists(folderPath)):
+        folder = currentPath + "/files"
+        try:
+            os.mkdir(folder)
+        except OSError:
+            print("Creation of the directory %s failed" % folder)
+        else:
+            print("Successfully created the directory %s " % folder)
 
     f = open('files/' + str(fileName) + ' Links.txt', 'w')
     f.write(startSite + " " + fileName + " " + siteName +'\n')

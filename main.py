@@ -4,7 +4,6 @@ from websiteobj import WebsiteObj
 
 
 
-
 internetSites = [WebsiteObj("https://www.epa.gov/faca",'faca',"https://www.epa.gov", "/faca", ".txt", "internet", True),
                WebsiteObj("https://www.epa.gov/contracts",'contracts',"https://www.epa.gov", "/contracts", ".txt", "internet", False),
                WebsiteObj("https://www.epa.gov/careers",'careers',"https://www.epa.gov", "/careers", ".txt", "internet", False),
@@ -22,6 +21,7 @@ intranetSites = [WebsiteObj("https://intranet.epa.gov/oarm/orbo/index.html",'oro
                WebsiteObj("https://www.epa.gov/greeningepa", 'greeningepa', "https://www.epa.gov", "/greeningepa", ".txt", "intranet", False) ]
 
 allsites = internetSites + intranetSites
+
 
 for site in allsites:
     if site.active is True:
