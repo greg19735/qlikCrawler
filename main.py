@@ -26,4 +26,4 @@ allsites = internetSites + intranetSites
 for site in allsites:
     if site.active is True:
         crawlPage(site.url, site.domain, site.sitename, site.filename)
-    print("done " + str(site.url))
+    #print("done " + str(site.url))

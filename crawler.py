@@ -35,7 +35,7 @@ def crawlPage(startSite, domain, siteName, fileName):
     while siteQueue:
         site = siteQueue.pop()
         crawledList.append(site)
-        print("site: " + site)
+        #print("site: " + site)
 
 
         crawltest = pageToCrawl(site)
@@ -73,11 +73,12 @@ def crawlPage(startSite, domain, siteName, fileName):
                                     if anchor not in anchorList:
                                         anchorList.append(anchor)
                     except KeyError:
-                        print("keyerror with anchor: ")  # or some other fallback action
+                        pass
+                        #print("keyerror with anchor: ")  # or some other fallback action
 
                 # add domain and put to sitequeue
                 for link in anchorList:
-                    print("link to add: " + link)
+                    #print("link to add: " + link)
 
                     if str(link).startswith("/"):
                         wholeLink = domain + str(link)
@@ -86,13 +87,13 @@ def crawlPage(startSite, domain, siteName, fileName):
                     else:
                         wholeLink = link
 
-                    print("Sitequeue Test : " + wholeLink)
+                    #print("Sitequeue Test : " + wholeLink)
 
                     if wholeLink not in crawledList and wholeLink not in siteQueue:
-                        print("Passed Sitequeue test: " + wholeLink)
+                        #print("Passed Sitequeue test: " + wholeLink)
                         siteQueue.append(wholeLink)
 
-                print("(" + str(len(crawledList)) + " / " + str(len(siteQueue)) + ") crawled: " + site)
+                #print("(" + str(len(crawledList)) + " / " + str(len(siteQueue)) + ") crawled: " + site)
 
                 time.sleep(sleeptime)
             except urllib.error.URLError:

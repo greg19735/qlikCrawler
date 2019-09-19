@@ -51,7 +51,7 @@ def printresults(resultlist, filename, path):
 
     for result in resultlist:
         try:
-            if(True):
+            if False:
                 print(
                     "origin: " + result.originpage + '\t' + "LinkToPage: " + result.LinkToPage + '\t' + "LinkToPageStatus: " + str(result.LinkToPageStatus) + '\t' + "LinkToPageTitle: " + result.LinkToPageTitle + '\t' + "OriginPageDate: " + result.OriginPageDate + '\t' + "OriginPageTitle: " + result.OriginPageTitle + '\n')
 
