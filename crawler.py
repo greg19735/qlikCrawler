@@ -18,7 +18,7 @@ import ssl
 
 ssl._create_default_https_context = ssl._create_unverified_context
 
-sleeptime = 0.5
+sleeptime = 0.1
 
 def crawlPage(startSite, domain, siteName, fileName):
 

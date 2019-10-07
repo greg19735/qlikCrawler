@@ -1,1 +1,1 @@
-path =  "C:\\Users\\greg\\PycharmProjects\\qlikCrawler"
+path =  "C:\\Users\\gbyrne\\pycharm\\qlikCrawler"

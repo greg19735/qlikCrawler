@@ -9,7 +9,7 @@ def linkCheckThread (testlink, resultDict, allResults, link, siteTitle, linkResu
     #how long to wait based network strain
 
     #wait in seconds
-    waitTime = .5
+    waitTime = .02
 
 
     #not tested
