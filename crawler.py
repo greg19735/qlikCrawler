@@ -4,6 +4,8 @@ from urllib.parse import urljoin
 from functions import pageToCrawl
 from functions import isSite
 from functions import remove_url_anchor
+from linkobj import LinkObj
+
 import time
 import requests
 import os
@@ -20,7 +22,7 @@ ssl._create_default_https_context = ssl._create_unverified_context
 
 sleeptime = 0.1
 
-def crawlPage(startSite, domain, siteName, fileName):
+def crawlPage(indexUrl, domain, siteName, fileName):
 
 
 
@@ -30,21 +32,24 @@ def crawlPage(startSite, domain, siteName, fileName):
     redirectList = [] #List or URLS that are redirects to make sure they're not checked again.
 
     linkcount = 0
-    siteQueue.append(startSite)
+
+    indexLink = LinkObj(indexUrl, 0)
+    siteQueue.append(indexLink)
 
     while siteQueue:
         site = siteQueue.pop()
         crawledList.append(site)
         #print("site: " + site)
+        currentDepth = site.depthcount
 
 
-        crawltest = pageToCrawl(site)
+        crawltest = pageToCrawl(site.url)
         if crawltest is True:
 
 
             try:
 
-                page = urllib.request.urlopen(site)
+                page = urllib.request.urlopen(site.url)
                 #page = "C:\\Users\\greg\\PycharmProjects\\crawler\\example.html"
                 #soup = BeautifulSoup(open(page), 'html.parser')
                 soup = BeautifulSoup(page, 'html.parser')
@@ -58,10 +63,10 @@ def crawlPage(startSite, domain, siteName, fileName):
 
                         anchor = remove_url_anchor(anchor)
                         if not str(anchor).startswith("#"):
-                            if (domain == 'https://oamintra.epa.gov') and ('node' in anchor):
+                            if (domain == 'https://contracts.epa.gov') and ('node' in anchor):
                                 anchor = urljoin(domain, anchor)
                             else:
-                                anchor = urljoin(site, anchor)
+                                anchor = urljoin(str(site.url), anchor)
 
 
                             if(' ' in anchor):
@@ -89,9 +94,12 @@ def crawlPage(startSite, domain, siteName, fileName):
 
                     #print("Sitequeue Test : " + wholeLink)
 
-                    if wholeLink not in crawledList and wholeLink not in siteQueue:
+                    wholeLinkObj = LinkObj(wholeLink, currentDepth+1)
+
+                    if wholeLinkObj not in crawledList and wholeLinkObj not in siteQueue:
                         #print("Passed Sitequeue test: " + wholeLink)
-                        siteQueue.append(wholeLink)
+
+                        siteQueue.append(wholeLinkObj)
 
                 #print("(" + str(len(crawledList)) + " / " + str(len(siteQueue)) + ") crawled: " + site)
 
@@ -104,7 +112,8 @@ def crawlPage(startSite, domain, siteName, fileName):
             #print("don't crawl:" + site)
             badList.append(site)
         else:
-            redirecturl = crawltest
+            redirecturl = LinkObj(crawltest, currentDepth+1)
+
             #Add original URL to redirect list
             redirectList.append(site)
             #add new URL to crawl list IF IT HASN"T BEEN CRAWLED
@@ -114,7 +123,7 @@ def crawlPage(startSite, domain, siteName, fileName):
 
 
 
-            print("redirecting: " + site + " to " + redirecturl )
+            print("redirecting: " + site.url + " to " + redirecturl.url )
 
     currentPath = os.path.dirname(os.path.realpath(__file__))
     folderPath = currentPath + "\\files"
@@ -128,7 +137,7 @@ def crawlPage(startSite, domain, siteName, fileName):
             print("Successfully created the directory %s " % folder)
 
     f = open('files/' + str(fileName) + ' Links.txt', 'w')
-    f.write(startSite + " " + fileName + " " + siteName +'\n')
+    f.write(indexUrl + " " + fileName + " " + siteName +'\n')
 
 
     for url in crawledList:
