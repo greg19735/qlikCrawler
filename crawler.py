@@ -142,7 +142,7 @@ def crawlPage(indexUrl, domain, siteName, fileName):
 
     for url in crawledList:
         if url not in badList:
-            f.write(str(url) + '\n')
+            f.write(str(url.url) + '\n')
 
 
 print("end")
