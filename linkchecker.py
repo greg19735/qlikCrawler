@@ -22,9 +22,10 @@ from requests.packages.urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 path =  config.path
-directory =  "\\files"
-filepath = path + directory
-linkFilesNames = os.listdir(filepath)
+internetDirectory =  "\\crawledLinks\\internet"
+intranetDirectory =  "\\crawledLinks\\intranet"
+filepath = path + internetDirectory
+linkFilesNamesInternet = os.listdir(filepath)
 linkFiles=[]
 allResults=[]
 domain = "https://www.epa.gov"
@@ -40,8 +41,19 @@ if (not os.path.exists(folderPath)):
     else:
         print("Successfully created the directory %s " % folder)
 
-#find all link pages.
-for file in linkFilesNames:
+#Internet Pages
+for file in linkFilesNamesInternet:
+    f = open(str(filepath) + "\\" + str(file), "r")
+    if f.mode == 'r':
+        contents = f.read().splitlines()
+        linkFiles.append(contents)
+    f.close()
+
+#find all Intranet pages.
+filepath = path + intranetDirectory
+linkFilesNamesIntranet = os.listdir(filepath)
+
+for file in linkFilesNamesIntranet:
     f = open(str(filepath) + "\\" + str(file), "r")
     if f.mode == 'r':
         contents = f.read().splitlines()
@@ -141,11 +153,10 @@ for linkList in linkFiles:
         print(count)
         count = count+1
 
-
+    #print("linkCount: " + str(len(linkResults)))
     printresults(linkResults, newfilename +" Links" , path)
 
 
-    print("test")
 
 
 

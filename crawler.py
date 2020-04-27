@@ -22,7 +22,7 @@ ssl._create_default_https_context = ssl._create_unverified_context
 
 sleeptime = 0.1
 
-def crawlPage(indexUrl, domain, siteName, fileName):
+def crawlPage(indexUrl, domain, siteName, fileName, location):
 
 
 
@@ -128,7 +128,7 @@ def crawlPage(indexUrl, domain, siteName, fileName):
     currentPath = os.path.dirname(os.path.realpath(__file__))
     folderPath = currentPath + "\\crawledLinks"
     if (not os.path.exists(folderPath)):
-        folder = currentPath + "/crawledLinks"
+        folder = currentPath + "\\crawledLinks"
         try:
             os.mkdir(folder)
         except OSError:
@@ -136,7 +136,28 @@ def crawlPage(indexUrl, domain, siteName, fileName):
         else:
             print("Successfully created the directory %s " % folder)
 
-    f = open('crawledLinks/' + str(fileName) + ' Links.txt', 'w')
+
+    if (not os.path.exists(folderPath+ "\\crawledLinks\\intranet")):
+        folder = currentPath + "\\crawledLinks\\intranet"
+        try:
+            os.mkdir(folder)
+        except OSError:
+            print("Creation of the directory %s failed" % folder)
+        else:
+            print("Successfully created the directory %s " % folder)
+
+
+    if (not os.path.exists(folderPath+ "\\crawledLinks\\internet")):
+        folder = currentPath + "\\crawledLinks\\internet"
+        try:
+            os.mkdir(folder)
+        except OSError:
+            print("Creation of the directory %s failed" % folder)
+        else:
+            print("Successfully created the directory %s " % folder)
+
+
+    f = open('crawledLinks//' + str(location) + "\\" + str(fileName) + ' Links.txt', 'w')
     f.write(indexUrl + " " + fileName + " " + siteName +'\n')
 
 
