@@ -126,9 +126,9 @@ def crawlPage(indexUrl, domain, siteName, fileName):
             print("redirecting: " + site.url + " to " + redirecturl.url )
 
     currentPath = os.path.dirname(os.path.realpath(__file__))
-    folderPath = currentPath + "\\files"
+    folderPath = currentPath + "\\crawledLinks"
     if (not os.path.exists(folderPath)):
-        folder = currentPath + "/files"
+        folder = currentPath + "/crawledLinks"
         try:
             os.mkdir(folder)
         except OSError:
@@ -136,7 +136,7 @@ def crawlPage(indexUrl, domain, siteName, fileName):
         else:
             print("Successfully created the directory %s " % folder)
 
-    f = open('files/' + str(fileName) + ' Links.txt', 'w')
+    f = open('crawledLinks/' + str(fileName) + ' Links.txt', 'w')
     f.write(indexUrl + " " + fileName + " " + siteName +'\n')
 
 
