@@ -5,7 +5,6 @@ from websiteobj import WebsiteObj
 
 
 internetSites = [WebsiteObj("https://www.epa.gov/faca",'faca',"https://www.epa.gov", "/faca", ".txt", "internet", False ),
-               WebsiteObj("https://www.epa.gov/contracts",'contracts',"https://www.epa.gov", "/contracts", ".txt", "internet", False ),
                WebsiteObj("https://www.epa.gov/careers",'careers',"https://www.epa.gov", "/careers", ".txt", "internet", False ),
                WebsiteObj("https://www.epa.gov/grants",'grants',"https://www.epa.gov", "/grants", ".txt", "internet", False) ,
                WebsiteObj("https://www.epa.gov/nscep",'nscep',"https://www.epa.gov", "/nscep", ".txt", "internet", True),

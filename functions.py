@@ -62,6 +62,29 @@ def printresults(resultlist, filename, path):
             print("it's a unicode error")
     f.close()
 
+
+
+def printNow(resultlist, filename, path):
+
+    filelocname = path + '\\results\\' + str(filename) + '.txt'
+
+    f = open(filelocname, 'w')
+
+    f.write('OriginPage	LinkToPage	LinkToPageStatus	LinkToPageTitle	OriginPageDate	OriginPageTitle\n')
+
+    for result in resultlist:
+        try:
+            if False:
+                print(
+                    "origin: " + result.originpage + '\t' + "LinkToPage: " + result.LinkToPage + '\t' + "LinkToPageStatus: " + str(result.LinkToPageStatus) + '\t' + "LinkToPageTitle: " + result.LinkToPageTitle + '\t' + "OriginPageDate: " + result.OriginPageDate + '\t' + "OriginPageTitle: " + result.OriginPageTitle + '\n')
+
+            f.write(
+                removeNonAscii(result.originpage.strip()) + '\t' + removeNonAscii(result.LinkToPage.strip()) + '\t' + str(result.LinkToPageStatus).strip() + '\t' + removeNonAscii(result.LinkToPageTitle.strip()) + '\t' + removeNonAscii(result.OriginPageDate.strip()) + '\t' + removeNonAscii(result.OriginPageTitle.strip()) + '\n')
+
+        except UnicodeEncodeError:
+            print("it's a unicode error")
+    f.close()
+
 def isURL(stringTest):
     URL = False
     if str(stringTest).startswith('https://'):

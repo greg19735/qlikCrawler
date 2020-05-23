@@ -1,1 +1,2 @@
-path =  "C:\\Users\\gbyrne\\pycharm\\qlikCrawler"
+path =  "C:\\Users\\greg\\PycharmProjects\\qlikCrawler"
+linkfolder = "crawledLinks"
