@@ -6,6 +6,8 @@ from functions import checkLink
 from functions import remove_url_anchor
 from functions import pageToCrawl
 from linkitem import LinkItem
+from functions import initDataframe
+
 from urllib.parse import urljoin
 
 from functions import printresults
@@ -13,6 +15,7 @@ from bs4 import BeautifulSoup
 from result import Result
 from multifunct import linkCheckThread
 from multifunct import noCheckThread
+import pandas as pd
 
 
 import urllib.request
@@ -24,6 +27,7 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 path =  config.path
 internetDirectory =  "\\crawledLinks\\internet"
 intranetDirectory =  "\\crawledLinks\\intranet"
+smallSiteDirectory =  "\\crawledLinks\\smallsite"
 filepath = path + internetDirectory
 linkFilesNamesInternet = os.listdir(filepath)
 linkFiles=[]
@@ -46,7 +50,7 @@ for file in linkFilesNamesInternet:
     f = open(str(filepath) + "\\" + str(file), "r")
     if f.mode == 'r':
         contents = f.read().splitlines()
-        linkFiles.append(contents)
+        #linkFiles.append(contents)
     f.close()
 
 #find all Intranet pages.
@@ -60,10 +64,27 @@ for file in linkFilesNamesIntranet:
         linkFiles.append(contents)
     f.close()
 
+filepath = path + smallSiteDirectory
+linkFilesNamesIntranet = os.listdir(filepath)
+#small sites
+for file in linkFilesNamesIntranet:
+    f = open(str(filepath) + "\\" + str(file), "r")
+    if f.mode == 'r':
+        contents = f.read().splitlines()
+        linkFiles.append(contents)
+    f.close()
+
 resultDict={}
 index = 0
 
+#set up dataframe for link results.
+successDataFrameRow = initDataframe()
+errorDataFrameRow = initDataframe()
 
+
+
+
+print()
 #iterate through files, finding list of each site's links
 for linkList in linkFiles:
 
@@ -71,9 +92,17 @@ for linkList in linkFiles:
     count = 0
     newdomain = ""
     newfilename = ""
+    totalLinks = 0
+    totalErrors = 0
+    totalSuccess = 0
+
+
+
 
     #test link in linkList.
     for link in linkList:
+
+
 
         #For first link, this is the name of the website.
         if count is 0:
@@ -82,7 +111,6 @@ for linkList in linkFiles:
             newdomain =  str[0]
             newfilename =  str[1]
         else:
-
 
             if pageToCrawl(link) is True:#double check site.
                 print("link: " + link)
@@ -153,7 +181,20 @@ for linkList in linkFiles:
         print(count)
         count = count+1
 
-    #print("linkCount: " + str(len(linkResults)))
+    #Print results and store totals.
+
+    #get totals
+
+    if(True):
+        for resultLink in linkResults:
+            if resultLink.LinkToPageStatus == 200:
+                totalSuccess+= 1
+            else:
+                totalErrors+= 1
+
+        successDataFrameRow.at[0, newfilename] = totalSuccess
+        errorDataFrameRow.at[0, newfilename] = totalErrors
+
     printresults(linkResults, newfilename +" Links" , path)
 
 

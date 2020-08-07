@@ -156,6 +156,14 @@ def crawlPage(indexUrl, domain, siteName, fileName, location):
         else:
             print("Successfully created the directory %s " % folder)
 
+    if (not os.path.exists(folderPath+ "\\crawledLinks\\smallsite")):
+        folder = currentPath + "\\crawledLinks\\smallsite"
+        try:
+            os.mkdir(folder)
+        except OSError:
+            print("Creation of the directory %s failed" % folder)
+        else:
+            print("Successfully created the directory %s " % folder)
 
     f = open('crawledLinks//' + str(location) + "\\" + str(fileName) + ' Links.txt', 'w')
     f.write(indexUrl + " " + fileName + " " + siteName +'\n')
