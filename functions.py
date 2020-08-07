@@ -1,12 +1,21 @@
 
 import requests
 import urllib
+import ssl
+from requests.packages.urllib3.exceptions import InsecureRequestWarning
+
 
 
 def remove_url_anchor(url):
     return url[:url.index('#')] if '#' in url else url
 
 def checkLink(url):
+    requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
+
+
+    ssl._create_default_https_context = ssl._create_unverified_context
+
+    sleeptime = 0.1
 
     request = ""
     code= ""

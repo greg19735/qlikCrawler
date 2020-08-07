@@ -11,6 +11,7 @@ def linkCheckThread (testlink, resultDict, allResults, link, siteTitle, linkResu
     #wait in seconds
     waitTime = .02
 
+    #ssl._create_default_https_context = ssl._create_unverified_context
 
     #not tested
     if testlink.url.startswith("https://") or testlink.url.startswith("http://"):

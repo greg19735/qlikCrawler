@@ -42,23 +42,26 @@ if (not os.path.exists(folderPath)):
         print("Successfully created the directory %s " % folder)
 
 #Internet Pages
-for file in linkFilesNamesInternet:
-    f = open(str(filepath) + "\\" + str(file), "r")
-    if f.mode == 'r':
-        contents = f.read().splitlines()
-        linkFiles.append(contents)
-    f.close()
+if False:
+    for file in linkFilesNamesInternet:
+        f = open(str(filepath) + "\\" + str(file), "r")
+        if f.mode == 'r':
+            contents = f.read().splitlines()
+            linkFiles.append(contents)
+        f.close()
 
 #find all Intranet pages.
 filepath = path + intranetDirectory
 linkFilesNamesIntranet = os.listdir(filepath)
+if True:
+    for file in linkFilesNamesIntranet:
+        f = open(str(filepath) + "\\" + str(file), "r")
+        if f.mode == 'r':
+            contents = f.read().splitlines()
+            linkFiles.append(contents)
+        f.close()
 
-for file in linkFilesNamesIntranet:
-    f = open(str(filepath) + "\\" + str(file), "r")
-    if f.mode == 'r':
-        contents = f.read().splitlines()
-        linkFiles.append(contents)
-    f.close()
+
 
 resultDict={}
 index = 0
@@ -81,6 +84,7 @@ for linkList in linkFiles:
 
             newdomain =  str[0]
             newfilename =  str[1]
+            print("site: " + newdomain)
         else:
 
 
