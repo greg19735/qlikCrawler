@@ -6,6 +6,8 @@ from functions import checkLink
 from functions import remove_url_anchor
 from functions import pageToCrawl
 from linkitem import LinkItem
+from functions import initDataframe
+
 from urllib.parse import urljoin
 
 from functions import printresults
@@ -13,6 +15,7 @@ from bs4 import BeautifulSoup
 from result import Result
 from multifunct import linkCheckThread
 from multifunct import noCheckThread
+import pandas as pd
 
 
 import urllib.request
@@ -24,6 +27,7 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 path =  config.path
 internetDirectory =  "\\crawledLinks\\internet"
 intranetDirectory =  "\\crawledLinks\\intranet"
+smallSiteDirectory =  "\\crawledLinks\\smallsite"
 filepath = path + internetDirectory
 linkFilesNamesInternet = os.listdir(filepath)
 linkFiles=[]
@@ -42,30 +46,40 @@ if (not os.path.exists(folderPath)):
         print("Successfully created the directory %s " % folder)
 
 #Internet Pages
-if False:
-    for file in linkFilesNamesInternet:
-        f = open(str(filepath) + "\\" + str(file), "r")
-        if f.mode == 'r':
-            contents = f.read().splitlines()
-            linkFiles.append(contents)
-        f.close()
+for file in linkFilesNamesInternet:
+    f = open(str(filepath) + "\\" + str(file), "r")
+    if f.mode == 'r':
+        contents = f.read().splitlines()
+        #linkFiles.append(contents)
+    f.close()
 
 #find all Intranet pages.
 filepath = path + intranetDirectory
 linkFilesNamesIntranet = os.listdir(filepath)
-if True:
-    for file in linkFilesNamesIntranet:
-        f = open(str(filepath) + "\\" + str(file), "r")
-        if f.mode == 'r':
-            contents = f.read().splitlines()
-            linkFiles.append(contents)
-        f.close()
 
+for file in linkFilesNamesIntranet:
+    f = open(str(filepath) + "\\" + str(file), "r")
+    if f.mode == 'r':
+        contents = f.read().splitlines()
+        linkFiles.append(contents)
+    f.close()
 
+filepath = path + smallSiteDirectory
+linkFilesNamesIntranet = os.listdir(filepath)
+#small sites
+for file in linkFilesNamesIntranet:
+    f = open(str(filepath) + "\\" + str(file), "r")
+    if f.mode == 'r':
+        contents = f.read().splitlines()
+        linkFiles.append(contents)
+    f.close()
 
 resultDict={}
 index = 0
 
+#set up dataframe for link results.
+successDataFrameRow = initDataframe()
+errorDataFrameRow = initDataframe()
 
 #iterate through files, finding list of each site's links
 for linkList in linkFiles:
@@ -74,6 +88,12 @@ for linkList in linkFiles:
     count = 0
     newdomain = ""
     newfilename = ""
+    totalLinks = 0
+    totalErrors = 0
+    totalSuccess = 0
+
+
+
 
     #test link in linkList.
     for link in linkList:
@@ -84,7 +104,6 @@ for linkList in linkFiles:
 
             newdomain =  str[0]
             newfilename =  str[1]
-            print("site: " + newdomain)
         else:
 
 

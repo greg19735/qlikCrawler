@@ -9,7 +9,7 @@ def linkCheckThread (testlink, resultDict, allResults, link, siteTitle, linkResu
     #how long to wait based network strain
 
     #wait in seconds
-    waitTime = .02
+    waitTime = .5
 
     #ssl._create_default_https_context = ssl._create_unverified_context
 
