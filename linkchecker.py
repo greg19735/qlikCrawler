@@ -6,7 +6,6 @@ from functions import checkLink
 from functions import remove_url_anchor
 from functions import pageToCrawl
 from linkitem import LinkItem
-from functions import initDataframe
 
 from urllib.parse import urljoin
 
@@ -15,7 +14,6 @@ from bs4 import BeautifulSoup
 from result import Result
 from multifunct import linkCheckThread
 from multifunct import noCheckThread
-import pandas as pd
 
 
 import urllib.request
@@ -23,12 +21,17 @@ import requests
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
+import ssl
+
+ssl._create_default_https_context = ssl._create_unverified_context
+
+
 
 path =  config.path
 internetDirectory =  "\\crawledLinks\\internet"
 intranetDirectory =  "\\crawledLinks\\intranet"
 smallSiteDirectory =  "\\crawledLinks\\smallsite"
-filepath = path + internetDirectory
+filepath = path + intranetDirectory
 linkFilesNamesInternet = os.listdir(filepath)
 linkFiles=[]
 allResults=[]
@@ -61,7 +64,7 @@ for file in linkFilesNamesIntranet:
     f = open(str(filepath) + "\\" + str(file), "r")
     if f.mode == 'r':
         contents = f.read().splitlines()
-        linkFiles.append(contents)
+        #linkFiles.append(contents)
     f.close()
 
 filepath = path + smallSiteDirectory
@@ -77,9 +80,7 @@ for file in linkFilesNamesIntranet:
 resultDict={}
 index = 0
 
-#set up dataframe for link results.
-successDataFrameRow = initDataframe()
-errorDataFrameRow = initDataframe()
+
 
 #iterate through files, finding list of each site's links
 for linkList in linkFiles:
