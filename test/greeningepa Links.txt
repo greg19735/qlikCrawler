@@ -1,0 +1,679 @@
+OriginPage	LinkToPage	LinkToPageStatus	LinkToPageTitle	OriginPageDate	OriginPageTitle
+https://www.epa.gov/greeningepa	https://www.epa.gov	200	Jump to main content	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/	200	EPA.gov	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://archive.epa.gov/	200	EPA Web Archive	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://19january2017snapshot.epa.gov/	200	January 19, 2017 Web Snapshot	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/	200	US EPA	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/environmental-topics	200	Environmental Topics	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/environmental-topics/air-topics	200	Air	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/bedbugs	200	Bed Bugs	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/environmental-topics/chemicals-and-toxics-topics	200	Chemicals and Toxics	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/environmental-topics/environmental-information-location	200	Environmental Information by Location	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/environmental-topics/greener-living	200	Greener Living	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/environmental-topics/health-topics	200	Health	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/environmental-topics/land-waste-and-cleanup-topics	200	Land, Waste, and Cleanup	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/lead	200	Lead	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/mold	200	Mold	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/pesticides	200	Pesticides	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/radon	200	Radon	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/environmental-topics/science-topics	200	Science	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/environmental-topics/water-topics	200	Water	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/environmental-topics/z-index	200	A-Z Index	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/laws-regulations	200	Laws & Regulations	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/regulatory-information-sector	200	By Business Sector	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/regulatory-information-topic	200	By Topic	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/compliance	200	Compliance	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/enforcement	200	Enforcement	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/laws-regulations/laws-and-executive-orders	200	Laws and Executive Orders	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/laws-regulations/policy-guidance	200	Policy and Guidance	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/laws-regulations/regulations	200	Regulations	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/aboutepa	200	About EPA	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/aboutepa/epas-administrator	200	EPA Administrator	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/aboutepa/current-epa-leadership	200	Current Leadership	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/aboutepa/epa-organization-chart	200	Organization Chart	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	http://cfpub.epa.gov/locator/index.cfm	200	Staff Directory	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/planandbudget	200	Planning, Budget and Results	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/careers	200	Jobs and Internships	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/aboutepa	200	Headquarters Offices	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/aboutepa	200	Regional Offices	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/aboutepa	200	Labs and Research Centers	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	mailto:%20?subject=Shared%20from%20the%20US%20EPA:%20Greening%20EPA&body=Greening%20EPA%20-%20https://www.epa.gov/greeningepa	non url		date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov	200	Sustainability Map	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/accessibility	200	Accessibility	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/aboutepa/epas-administrator	200	EPA Administrator	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/planandbudget	200	Budget & Performance	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/contracts	200	Contracting	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/grants	200	Grants	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://19january2017snapshot.epa.gov	200	January 19, 2017 Web Snapshot	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/ocr/whistleblower-protections-epa-and-how-they-relate-non-disclosure-agreements-signed-epa-employees	200	No FEAR Act Data	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/privacy	200	Privacy	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/privacy/privacy-and-security-notice	200	Privacy and Security Notice	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.data.gov/	200	Data.gov	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/office-inspector-general/about-epas-office-inspector-general	200	Inspector General	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/careers	200	Jobs	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/newsroom	200	Newsroom	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/open	200	Open Government	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.regulations.gov/	200	Regulations.gov	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/newsroom/email-subscriptions-epa-news-releases	200	Subscribe	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.usa.gov/	200	USA.gov	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.whitehouse.gov/	200	White House	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/home/forms/contact-epa	200	Contact EPA	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/home/epa-hotlines	200	Hotlines	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/foia	200	FOIA Requests	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/home/frequent-questions-specific-epa-programstopics	200	Frequent Questions	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.facebook.com/EPA	200	EPA's Facebook	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://twitter.com/epa	200	EPA's Twitter	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.youtube.com/user/USEPAgov	200	EPA's YouTube	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.flickr.com/photos/usepagov	200	EPA's Flickr	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.instagram.com/epagov	200	EPA's Instagram	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/forms/contact-us-about-greening-epa	200	Contact Us	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/epa-sustainability-plans	200	Sustainability Plans	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://twitter.com/intent/tweet?original_referer=https://www.epa.gov/greeningepa&text=Greening%20EPA&url=https://www.epa.gov/greeningepa&via=EPA&count=none&lang=en	200		date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/epa-sustainability-progress	200	EPA Annual Reports and Progress	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/federal-sustainability-requirements-and-guidelines	200	Federal Requirements and Guidance	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/energy-and-emissions-epa	200		date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/greenhouse-gases-epa	200	Greenhouse Gases	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/renewable-energy-epa	200	Renewable Energy	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/energy-efficiency-epa	200	Energy Efficiency	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/green-buildings-epa	200		date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/new-construction-and-renovations-epa	200	Construction & Renovations	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.facebook.com/sharer.php?u=https://www.epa.gov/greeningepa&t=Greening%20EPA	200		date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/high-performance-buildings-epa	200	High-Performance Buildings	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/facility-resiliency-epa	200	Facility Resiliency	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/water-management-epa	200		date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/water-conservation-epa	200	Water Conservation	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/epa-facility-stormwater-management	200	Stormwater Management	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/landscaping-epa-facilities	200	Landscaping	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/green-practices-epa	200		date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/sustainable-purchasing-epa	200	Sustainable Purchasing	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/electronics-stewardship-epa	200	Electronics Stewardship	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/fleet-management-epa	200	Transportation	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/pollinator-protection-epa	200	Pollinator Protection	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/robert-s-kerr-environmental-research-center	200	Robert S. Kerr Environmental Research Center	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/national-vehicle-and-fuel-emissions-laboratory-nvfel	200	National Vehicle and Fuel Emissions Laboratory	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/pollution-prevention-epa	200	Pollution Prevention	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/science-and-ecosystem-support-division-laboratory	200	Science and Ecosystem Support Division Laboratory	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/epa-headquarters-potomac-yard-one	200	EPA Headquarters, Potomac Yard One	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/national-exposure-research-laboratory	200	National Exposure Research Laboratory	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/region-4-office	200	Region 4 Office	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/new-england-regional-laboratory-nerl	200	New England Regional Laboratory	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/region-5-laboratory	200	Region 5 Laboratory	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/new-england-regional-office	200	New England Regional Office	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/andrew-w-breidenbach-environmental-research-center-awberc	200	Andrew W. Breidenbach Environmental Research Center	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/andrew-w-breidenbach-environmental-research-center-annex-2	200	Research Support Annex 2	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/test-and-evaluation-facility	200	Testand Evaluation	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/national-service-center-environmental-publications-warehouse	200	National Service Center for Environmental Publications Warehouse	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/western-ecology-division-laboratory	200	Western Ecology Division Laboratory	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/region-8-office	200	Region 8 Office	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/region-6-office	200	Region 6 Office	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/national-enforcement-investigations-center	200	Office of Compliance and Enforcements National Enforcement Investigations Center	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/region-2-laboratory	200	Region 2 Laboratory	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/mid-continent-ecology-division-laboratory-med	200	Mid-Continent Ecology Division Laboratory	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/environmental-science-center	200	Environmental Science Center	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/region-2-caribbean-environmental-protection-division-cepd	200	Region 2 Caribbean Environmental Protection Division	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/gulf-ecology-division-laboratory	200	Gulf Ecology Division Laboratory	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/environmental-services-branch-laboratory	200	Environmental Services Branch Laboratory	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/science-and-technology-center-region-7-laboratory	200	Science and Technology Center	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/large-lakes-research-station	200	Large Lakes Research Station	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/national-exposure-research-laboratory-and-radiation-and-indoor-environments-national	200	National Exposure Research Laboratory and Radiation and Indoor Environments National Laboratory	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/region-7-office	200	Region 7 Office	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/region-10-laboratory	200	Region 10 Laboratory	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/national-analytical-radiation-environmental-laboratory-narel	200	National Analytical Radiation Environmental Laboratory	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/atlantic-ecology-division-aed-laboratory	200	Atlantic Ecology Division Laboratory	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/region-2-office	200	Region 2 Office	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/pacific-coastal-ecology-branch-ceb	200	Pacific Coastal Ecology Branch	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/region-3-office	200	Region 3 Office	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/research-triangle-park-main-building	200	Main Building	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/region-9-laboratory	200	Region 9 Laboratory	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/national-computer-center	200	National Computer Center	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/first-environments-early-learning-center-feelc	200	First Environments Early Learning Center	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/chapel-hill-laboratory	200	Chapel Hill Laboratory	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/region-9-office	200	Region 9 Office	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/forms/contact-us-about-greening-epa	200	Contact Us	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/region-10-office	200	Region 10 Office	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	200	EPA Headquarters Facility	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/region-5-office	200	Region 5 Office	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/waste-diversion-epa	200	Waste Diversion	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa	https://www.epa.gov/greeningepa/center-hill-facility	200	Center Hill Facility	date	Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov	200	Jump to main content	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/	200	EPA.gov	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://archive.epa.gov/	200	EPA Web Archive	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://19january2017snapshot.epa.gov/	200	January 19, 2017 Web Snapshot	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/	200	US EPA	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/environmental-topics	200	Environmental Topics	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/environmental-topics/air-topics	200	Air	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/bedbugs	200	Bed Bugs	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/environmental-topics/chemicals-and-toxics-topics	200	Chemicals and Toxics	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/environmental-topics/environmental-information-location	200	Environmental Information by Location	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/environmental-topics/greener-living	200	Greener Living	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/environmental-topics/health-topics	200	Health	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/environmental-topics/land-waste-and-cleanup-topics	200	Land, Waste, and Cleanup	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/lead	200	Lead	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/mold	200	Mold	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/pesticides	200	Pesticides	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/radon	200	Radon	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/environmental-topics/science-topics	200	Science	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/environmental-topics/water-topics	200	Water	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/environmental-topics/z-index	200	A-Z Index	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/laws-regulations	200	Laws & Regulations	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/regulatory-information-sector	200	By Business Sector	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/regulatory-information-topic	200	By Topic	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/compliance	200	Compliance	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/enforcement	200	Enforcement	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/laws-regulations/laws-and-executive-orders	200	Laws and Executive Orders	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/laws-regulations/policy-guidance	200	Policy and Guidance	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/laws-regulations/regulations	200	Regulations	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/aboutepa	200	About EPA	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/aboutepa/epas-administrator	200	EPA Administrator	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/aboutepa/current-epa-leadership	200	Current Leadership	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/aboutepa/epa-organization-chart	200	Organization Chart	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	http://cfpub.epa.gov/locator/index.cfm	200	Staff Directory	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/planandbudget	200	Planning, Budget and Results	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/careers	200	Jobs and Internships	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/aboutepa	200	Headquarters Offices	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/aboutepa	200	Regional Offices	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/aboutepa	200	Labs and Research Centers	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/greeningepa/forms/contact-us-about-greening-epa	200	Contact Us	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	mailto:%20?subject=Shared%20from%20the%20US%20EPA:%20Headquarters%20Facilities%20at%20Federal%20Triangle&body=Headquarters%20Facilities%20at%20Federal%20Triangle%20-%20https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	non url		date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/greeningepa/epa-headquarters-potomac-yard-one	200	Potomac Yard One facility in Arlington, Virginia	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/greeningepa/forms/contact-us-about-greening-epa	200	Contact Us	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/greeningepa	200	Greening EPA Home	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/greeningepa/epa-sustainability-plans	200	EPA Sustainability Plans	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/greeningepa/epa-sustainability-progress	200	EPA Sustainability Progress	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/greeningepa/federal-sustainability-requirements-and-guidelines	200	Federal Requirements	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/greeningepa/energy-efficiency-epa	200	Energy Efficiency	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/greeningepa/greenhouse-gases-epa	200	Greenhouse Gases	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/greeningepa/renewable-energy-epa	200	Renewable Energy	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/greeningepa/green-buildings-epa	200	Green Buildings	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/greeningepa/new-construction-and-renovations-epa	200	Construction & Renovation	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/greeningepa/high-performance-buildings-epa	200	Existing Buildings	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/greeningepa/facility-resiliency-epa	200	Facility Resiliency	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/greeningepa/water-management-epa	200	Water Management	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/greeningepa/landscaping-epa-facilities	200	Landscaping	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/greeningepa/epa-facility-stormwater-management	200	Stormwater Management	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/greeningepa/water-conservation-epa	200	Water Conservation	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/greeningepa/green-practices-epa	200	Green Practices	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/accessibility	200	Accessibility	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/aboutepa/epas-administrator	200	EPA Administrator	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/planandbudget	200	Budget & Performance	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/contracts	200	Contracting	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/grants	200	Grants	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://19january2017snapshot.epa.gov	200	January 19, 2017 Web Snapshot	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/ocr/whistleblower-protections-epa-and-how-they-relate-non-disclosure-agreements-signed-epa-employees	200	No FEAR Act Data	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/privacy	200	Privacy	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/privacy/privacy-and-security-notice	200	Privacy and Security Notice	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.data.gov/	200	Data.gov	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/office-inspector-general/about-epas-office-inspector-general	200	Inspector General	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/careers	200	Jobs	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/newsroom	200	Newsroom	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/open	200	Open Government	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.regulations.gov/	200	Regulations.gov	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/newsroom/email-subscriptions-epa-news-releases	200	Subscribe	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.usa.gov/	200	USA.gov	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.whitehouse.gov/	200	White House	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/home/forms/contact-epa	200	Contact EPA	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/home/epa-hotlines	200	Hotlines	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/foia	200	FOIA Requests	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/home/frequent-questions-specific-epa-programstopics	200	Frequent Questions	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.facebook.com/EPA	200	EPA's Facebook	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://twitter.com/epa	200	EPA's Twitter	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.youtube.com/user/USEPAgov	200	EPA's YouTube	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.flickr.com/photos/usepagov	200	EPA's Flickr	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.instagram.com/epagov	200	EPA's Instagram	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/node/102053/	403	Energy and Emissions	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.epa.gov/greeningepa/epa-facility-contact-list	200	EPA Facility Contact List	date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://twitter.com/intent/tweet?original_referer=https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle&text=Headquarters%20Facilities%20at%20Federal%20Triangle&url=https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle&via=EPA&count=none&lang=en	200		date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle	https://www.facebook.com/sharer.php?u=https://www.epa.gov/greeningepa/headquarters-facilities-federal-triangle&t=Headquarters%20Facilities%20at%20Federal%20Triangle	200		date	Headquarters Facilities at Federal Triangle | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov	200	Jump to main content	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/	200	EPA.gov	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://archive.epa.gov/	200	EPA Web Archive	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://19january2017snapshot.epa.gov/	200	January 19, 2017 Web Snapshot	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/	200	US EPA	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/environmental-topics	200	Environmental Topics	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/environmental-topics/air-topics	200	Air	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/bedbugs	200	Bed Bugs	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/environmental-topics/chemicals-and-toxics-topics	200	Chemicals and Toxics	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/environmental-topics/environmental-information-location	200	Environmental Information by Location	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/environmental-topics/greener-living	200	Greener Living	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/environmental-topics/health-topics	200	Health	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/environmental-topics/land-waste-and-cleanup-topics	200	Land, Waste, and Cleanup	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/lead	200	Lead	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/mold	200	Mold	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/pesticides	200	Pesticides	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/radon	200	Radon	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/environmental-topics/science-topics	200	Science	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/environmental-topics/water-topics	200	Water	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/environmental-topics/z-index	200	A-Z Index	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/laws-regulations	200	Laws & Regulations	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/regulatory-information-sector	200	By Business Sector	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/regulatory-information-topic	200	By Topic	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/compliance	200	Compliance	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/enforcement	200	Enforcement	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/laws-regulations/laws-and-executive-orders	200	Laws and Executive Orders	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/laws-regulations/policy-guidance	200	Policy and Guidance	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/laws-regulations/regulations	200	Regulations	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/aboutepa	200	About EPA	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/aboutepa/epas-administrator	200	EPA Administrator	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/aboutepa/current-epa-leadership	200	Current Leadership	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/aboutepa/epa-organization-chart	200	Organization Chart	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	http://cfpub.epa.gov/locator/index.cfm	200	Staff Directory	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/planandbudget	200	Planning, Budget and Results	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/careers	200	Jobs and Internships	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/aboutepa	200	Headquarters Offices	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/aboutepa	200	Regional Offices	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/aboutepa	200	Labs and Research Centers	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/greeningepa/forms/contact-us-about-greening-epa	200	Contact Us	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	mailto:%20?subject=Shared%20from%20the%20US%20EPA:%20EPA%20Facilities%20Manual&body=EPA%20Facilities%20Manual%20-%20https://www.epa.gov/greeningepa/epa-facilities-manual	non url		date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/home/pdf-files	200	About PDF page	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/greeningepa/forms/contact-us-about-greening-epa	200	Contact Us	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/greeningepa	200	Greening EPA Home	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/greeningepa/epa-sustainability-plans	200	EPA Sustainability Plans	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/greeningepa/epa-sustainability-progress	200	EPA Sustainability Progress	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/greeningepa/federal-sustainability-requirements-and-guidelines	200	Federal Requirements	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/node/102053/	403	Energy and Emissions	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/greeningepa/energy-efficiency-epa	200	Energy Efficiency	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/greeningepa/greenhouse-gases-epa	200	Greenhouse Gases	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/greeningepa/renewable-energy-epa	200	Renewable Energy	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/greeningepa/green-buildings-epa	200	Green Buildings	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/greeningepa/new-construction-and-renovations-epa	200	Construction & Renovation	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/greeningepa/high-performance-buildings-epa	200	Existing Buildings	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/greeningepa/facility-resiliency-epa	200	Facility Resiliency	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/greeningepa/water-management-epa	200	Water Management	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/greeningepa/landscaping-epa-facilities	200	Landscaping	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/greeningepa/epa-facility-stormwater-management	200	Stormwater Management	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/greeningepa/water-conservation-epa	200	Water Conservation	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/greeningepa/green-practices-epa	200	Green Practices	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/accessibility	200	Accessibility	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/aboutepa/epas-administrator	200	EPA Administrator	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/planandbudget	200	Budget & Performance	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/contracts	200	Contracting	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/grants	200	Grants	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://19january2017snapshot.epa.gov	200	January 19, 2017 Web Snapshot	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/ocr/whistleblower-protections-epa-and-how-they-relate-non-disclosure-agreements-signed-epa-employees	200	No FEAR Act Data	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/privacy	200	Privacy	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/privacy/privacy-and-security-notice	200	Privacy and Security Notice	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.data.gov/	200	Data.gov	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/office-inspector-general/about-epas-office-inspector-general	200	Inspector General	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/careers	200	Jobs	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/newsroom	200	Newsroom	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/open	200	Open Government	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.regulations.gov/	200	Regulations.gov	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/newsroom/email-subscriptions-epa-news-releases	200	Subscribe	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.usa.gov/	200	USA.gov	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.whitehouse.gov/	200	White House	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/home/forms/contact-epa	200	Contact EPA	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/home/epa-hotlines	200	Hotlines	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/foia	200	FOIA Requests	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/home/frequent-questions-specific-epa-programstopics	200	Frequent Questions	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.facebook.com/EPA	200	EPA's Facebook	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://twitter.com/epa	200	EPA's Twitter	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.youtube.com/user/USEPAgov	200	EPA's YouTube	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.flickr.com/photos/usepagov	200	EPA's Flickr	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.instagram.com/epagov	200	EPA's Instagram	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://twitter.com/intent/tweet?original_referer=https://www.epa.gov/greeningepa/epa-facilities-manual&text=EPA%20Facilities%20Manual&url=https://www.epa.gov/greeningepa/epa-facilities-manual&via=EPA&count=none&lang=en	200		date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.facebook.com/sharer.php?u=https://www.epa.gov/greeningepa/epa-facilities-manual&t=EPA%20Facilities%20Manual	200		date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/sites/production/files/2015-09/documents/safety_health_508.pdf	200	EPA Facilities Manual Volume 3  Safety and Health Requirements (PDF)	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/sites/production/files/2015-09/documents/ae-guidelines_appendixb.pdf	200	EPA Building Commissioning Guidelines (PDF)	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/sites/production/files/2015-09/documents/enviro_mgmnt_508.pdf	200	EPA Facilities Manual Volume 4  Environmental Management Guidelines (PDF)	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/sites/production/files/2015-09/documents/space_planning_508.pdf	200	EPA Facilities Manual Volume 1   Space Acquisition and Planning Guidelines (PDF)	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-facilities-manual	https://www.epa.gov/sites/production/files/2018-03/documents/ae_guidelines_508.pdf	200	EPA Facilities Manual Volume 2  Architecture and Engineering Guidelines (PDF)	date	EPA Facilities Manual | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov	200	Jump to main content	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/	200	EPA.gov	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://archive.epa.gov/	200	EPA Web Archive	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://19january2017snapshot.epa.gov/	200	January 19, 2017 Web Snapshot	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/	200	US EPA	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/environmental-topics	200	Environmental Topics	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/environmental-topics/air-topics	200	Air	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/bedbugs	200	Bed Bugs	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/environmental-topics/chemicals-and-toxics-topics	200	Chemicals and Toxics	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/environmental-topics/environmental-information-location	200	Environmental Information by Location	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/environmental-topics/greener-living	200	Greener Living	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/environmental-topics/health-topics	200	Health	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/environmental-topics/land-waste-and-cleanup-topics	200	Land, Waste, and Cleanup	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/lead	200	Lead	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/mold	200	Mold	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/pesticides	200	Pesticides	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/radon	200	Radon	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/environmental-topics/science-topics	200	Science	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/environmental-topics/water-topics	200	Water	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/environmental-topics/z-index	200	A-Z Index	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/laws-regulations	200	Laws & Regulations	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/regulatory-information-sector	200	By Business Sector	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/regulatory-information-topic	200	By Topic	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/compliance	200	Compliance	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/enforcement	200	Enforcement	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/laws-regulations/laws-and-executive-orders	200	Laws and Executive Orders	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/laws-regulations/policy-guidance	200	Policy and Guidance	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/laws-regulations/regulations	200	Regulations	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/aboutepa	200	About EPA	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/aboutepa/epas-administrator	200	EPA Administrator	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/aboutepa/current-epa-leadership	200	Current Leadership	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/aboutepa/epa-organization-chart	200	Organization Chart	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	http://cfpub.epa.gov/locator/index.cfm	200	Staff Directory	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/planandbudget	200	Planning, Budget and Results	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/careers	200	Jobs and Internships	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/aboutepa	200	Headquarters Offices	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/aboutepa	200	Regional Offices	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/aboutepa	200	Labs and Research Centers	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/greeningepa/forms/contact-us-about-greening-epa	200	Contact Us	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	mailto:%20?subject=Shared%20from%20the%20US%20EPA:%20EPA%20GreenCheck&body=EPA%20GreenCheck%20-%20https://www.epa.gov/greeningepa/epa-greencheck	non url		date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/greeningepa/forms/contact-us-about-greening-epa	200	Contact Us	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/greeningepa	200	Greening EPA Home	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/greeningepa/epa-sustainability-plans	200	EPA Sustainability Plans	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/greeningepa/epa-sustainability-progress	200	EPA Sustainability Progress	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/greeningepa/federal-sustainability-requirements-and-guidelines	200	Federal Requirements	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/node/102053/	403	Energy and Emissions	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/greeningepa/energy-efficiency-epa	200	Energy Efficiency	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/greeningepa/greenhouse-gases-epa	200	Greenhouse Gases	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/greeningepa/renewable-energy-epa	200	Renewable Energy	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/greeningepa/green-buildings-epa	200	Green Buildings	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/greeningepa/new-construction-and-renovations-epa	200	Construction & Renovation	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/greeningepa/high-performance-buildings-epa	200	Existing Buildings	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/greeningepa/facility-resiliency-epa	200	Facility Resiliency	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/greeningepa/water-management-epa	200	Water Management	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/greeningepa/landscaping-epa-facilities	200	Landscaping	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/greeningepa/epa-facility-stormwater-management	200	Stormwater Management	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/greeningepa/water-conservation-epa	200	Water Conservation	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/greeningepa/green-practices-epa	200	Green Practices	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/accessibility	200	Accessibility	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/aboutepa/epas-administrator	200	EPA Administrator	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/planandbudget	200	Budget & Performance	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/contracts	200	Contracting	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/grants	200	Grants	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://19january2017snapshot.epa.gov	200	January 19, 2017 Web Snapshot	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/ocr/whistleblower-protections-epa-and-how-they-relate-non-disclosure-agreements-signed-epa-employees	200	No FEAR Act Data	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/privacy	200	Privacy	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/privacy/privacy-and-security-notice	200	Privacy and Security Notice	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.data.gov/	200	Data.gov	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/office-inspector-general/about-epas-office-inspector-general	200	Inspector General	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/careers	200	Jobs	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/newsroom	200	Newsroom	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/open	200	Open Government	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.regulations.gov/	200	Regulations.gov	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/newsroom/email-subscriptions-epa-news-releases	200	Subscribe	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.usa.gov/	200	USA.gov	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.whitehouse.gov/	200	White House	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/home/forms/contact-epa	200	Contact EPA	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/home/epa-hotlines	200	Hotlines	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/foia	200	FOIA Requests	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/home/frequent-questions-specific-epa-programstopics	200	Frequent Questions	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.facebook.com/EPA	200	EPA's Facebook	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://twitter.com/epa	200	EPA's Twitter	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.youtube.com/user/USEPAgov	200	EPA's YouTube	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.flickr.com/photos/usepagov	200	EPA's Flickr	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.instagram.com/epagov	200	EPA's Instagram	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/greeningepa/energy-independence-and-security-act-2007	200	Energy Independence and Security Act of 2007 (EISA)	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://twitter.com/intent/tweet?original_referer=https://www.epa.gov/greeningepa/epa-greencheck&text=EPA%20GreenCheck&url=https://www.epa.gov/greeningepa/epa-greencheck&via=EPA&count=none&lang=en	200		date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/greeningepa/previous-sustainability-requirements	200	Energy Policy Act of 2005	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.epa.gov/greeningepa/guiding-principles-sustainable-federal-buildings	200	Guiding Principles for Sustainable Federal Buildings	date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/epa-greencheck	https://www.facebook.com/sharer.php?u=https://www.epa.gov/greeningepa/epa-greencheck&t=EPA%20GreenCheck	200		date	EPA GreenCheck | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov	200	Jump to main content	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/	200	EPA.gov	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://archive.epa.gov/	200	EPA Web Archive	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://19january2017snapshot.epa.gov/	200	January 19, 2017 Web Snapshot	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/	200	US EPA	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/environmental-topics	200	Environmental Topics	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/environmental-topics/air-topics	200	Air	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/bedbugs	200	Bed Bugs	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/environmental-topics/chemicals-and-toxics-topics	200	Chemicals and Toxics	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/environmental-topics/environmental-information-location	200	Environmental Information by Location	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/environmental-topics/greener-living	200	Greener Living	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/environmental-topics/health-topics	200	Health	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/environmental-topics/land-waste-and-cleanup-topics	200	Land, Waste, and Cleanup	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/lead	200	Lead	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/mold	200	Mold	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/pesticides	200	Pesticides	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/radon	200	Radon	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/environmental-topics/science-topics	200	Science	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/environmental-topics/water-topics	200	Water	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/environmental-topics/z-index	200	A-Z Index	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/laws-regulations	200	Laws & Regulations	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/regulatory-information-sector	200	By Business Sector	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/regulatory-information-topic	200	By Topic	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/compliance	200	Compliance	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/enforcement	200	Enforcement	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/laws-regulations/laws-and-executive-orders	200	Laws and Executive Orders	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/laws-regulations/policy-guidance	200	Policy and Guidance	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/laws-regulations/regulations	200	Regulations	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/aboutepa	200	About EPA	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/aboutepa/epas-administrator	200	EPA Administrator	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/aboutepa/current-epa-leadership	200	Current Leadership	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/aboutepa/epa-organization-chart	200	Organization Chart	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	http://cfpub.epa.gov/locator/index.cfm	200	Staff Directory	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/planandbudget	200	Planning, Budget and Results	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/careers	200	Jobs and Internships	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/aboutepa	200	Headquarters Offices	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/aboutepa	200	Regional Offices	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/aboutepa	200	Labs and Research Centers	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/greeningepa/forms/contact-us-about-greening-epa	200	Contact Us	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	mailto:%20?subject=Shared%20from%20the%20US%20EPA:%20Previous%20Sustainability%20Requirements&body=Previous%20Sustainability%20Requirements%20-%20https://www.epa.gov/greeningepa/previous-sustainability-requirements	non url		date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/greeningepa/forms/contact-us-about-greening-epa	200	Contact Us	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/greeningepa	200	Greening EPA Home	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/greeningepa/epa-sustainability-plans	200	EPA Sustainability Plans	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/greeningepa/epa-sustainability-progress	200	EPA Sustainability Progress	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/greeningepa/federal-sustainability-requirements-and-guidelines	200	Federal Requirements	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/node/102053/	403	Energy and Emissions	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/greeningepa/energy-efficiency-epa	200	Energy Efficiency	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/greeningepa/greenhouse-gases-epa	200	Greenhouse Gases	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/greeningepa/renewable-energy-epa	200	Renewable Energy	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/greeningepa/green-buildings-epa	200	Green Buildings	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/greeningepa/new-construction-and-renovations-epa	200	Construction & Renovation	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/greeningepa/high-performance-buildings-epa	200	Existing Buildings	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/greeningepa/facility-resiliency-epa	200	Facility Resiliency	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/greeningepa/water-management-epa	200	Water Management	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/greeningepa/landscaping-epa-facilities	200	Landscaping	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/greeningepa/epa-facility-stormwater-management	200	Stormwater Management	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/greeningepa/water-conservation-epa	200	Water Conservation	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/greeningepa/green-practices-epa	200	Green Practices	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/accessibility	200	Accessibility	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/aboutepa/epas-administrator	200	EPA Administrator	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/planandbudget	200	Budget & Performance	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/contracts	200	Contracting	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/grants	200	Grants	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://19january2017snapshot.epa.gov	200	January 19, 2017 Web Snapshot	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/ocr/whistleblower-protections-epa-and-how-they-relate-non-disclosure-agreements-signed-epa-employees	200	No FEAR Act Data	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/privacy	200	Privacy	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/privacy/privacy-and-security-notice	200	Privacy and Security Notice	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.data.gov/	200	Data.gov	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/office-inspector-general/about-epas-office-inspector-general	200	Inspector General	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/careers	200	Jobs	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/newsroom	200	Newsroom	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/open	200	Open Government	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.regulations.gov/	200	Regulations.gov	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/newsroom/email-subscriptions-epa-news-releases	200	Subscribe	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.usa.gov/	200	USA.gov	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.whitehouse.gov/	200	White House	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/home/forms/contact-epa	200	Contact EPA	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/home/epa-hotlines	200	Hotlines	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/foia	200	FOIA Requests	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/home/frequent-questions-specific-epa-programstopics	200	Frequent Questions	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.facebook.com/EPA	200	EPA's Facebook	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://twitter.com/epa	200	EPA's Twitter	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.youtube.com/user/USEPAgov	200	EPA's YouTube	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.flickr.com/photos/usepagov	200	EPA's Flickr	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.instagram.com/epagov	200	EPA's Instagram	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://twitter.com/intent/tweet?original_referer=https://www.epa.gov/greeningepa/previous-sustainability-requirements&text=Previous%20Sustainability%20Requirements&url=https://www.epa.gov/greeningepa/previous-sustainability-requirements&via=EPA&count=none&lang=en	200		date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	200	EO 13834: Efficient Federal Operations	date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/previous-sustainability-requirements	https://www.facebook.com/sharer.php?u=https://www.epa.gov/greeningepa/previous-sustainability-requirements&t=Previous%20Sustainability%20Requirements	200		date	Previous Sustainability Requirements | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov	200	Jump to main content	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/	200	EPA.gov	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://archive.epa.gov/	200	EPA Web Archive	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://19january2017snapshot.epa.gov/	200	January 19, 2017 Web Snapshot	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/	200	US EPA	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/environmental-topics	200	Environmental Topics	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/environmental-topics/air-topics	200	Air	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/bedbugs	200	Bed Bugs	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/environmental-topics/chemicals-and-toxics-topics	200	Chemicals and Toxics	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/environmental-topics/environmental-information-location	200	Environmental Information by Location	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/environmental-topics/greener-living	200	Greener Living	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/environmental-topics/health-topics	200	Health	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/environmental-topics/land-waste-and-cleanup-topics	200	Land, Waste, and Cleanup	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/lead	200	Lead	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/mold	200	Mold	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/pesticides	200	Pesticides	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/radon	200	Radon	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/environmental-topics/science-topics	200	Science	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/environmental-topics/water-topics	200	Water	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/environmental-topics/z-index	200	A-Z Index	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/laws-regulations	200	Laws & Regulations	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/regulatory-information-sector	200	By Business Sector	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/regulatory-information-topic	200	By Topic	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/compliance	200	Compliance	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/enforcement	200	Enforcement	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/laws-regulations/laws-and-executive-orders	200	Laws and Executive Orders	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/laws-regulations/policy-guidance	200	Policy and Guidance	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/laws-regulations/regulations	200	Regulations	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/aboutepa	200	About EPA	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/aboutepa/epas-administrator	200	EPA Administrator	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/aboutepa/current-epa-leadership	200	Current Leadership	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/aboutepa/epa-organization-chart	200	Organization Chart	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	http://cfpub.epa.gov/locator/index.cfm	200	Staff Directory	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/planandbudget	200	Planning, Budget and Results	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/careers	200	Jobs and Internships	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/aboutepa	200	Headquarters Offices	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/aboutepa	200	Regional Offices	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/aboutepa	200	Labs and Research Centers	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/greeningepa/forms/contact-us-about-greening-epa	200	Contact Us	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	mailto:%20?subject=Shared%20from%20the%20US%20EPA:%20Executive%20Order%2013834%3A%20Efficient%20Federal%20Operations&body=Executive%20Order%2013834%3A%20Efficient%20Federal%20Operations%20-%20https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	non url		date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/greeningepa/previous-sustainability-requirements	200	Energy Policy Act of 2005 (EPAct 2005)	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/greeningepa/energy-independence-and-security-act-2007	200	Energy Independence and Security Act (EISA) of 2007	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/greeningepa/energy-independence-and-security-act-2007	200	statutory requirements	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/home/exit-epa	200	Exit	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/greeningepa/forms/contact-us-about-greening-epa	200	Contact Us	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/greeningepa	200	Greening EPA Home	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/greeningepa/epa-sustainability-plans	200	EPA Sustainability Plans	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/greeningepa/epa-sustainability-progress	200	EPA Sustainability Progress	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/greeningepa/federal-sustainability-requirements-and-guidelines	200	Federal Requirements	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/node/102053/	403	Energy and Emissions	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/greeningepa/energy-efficiency-epa	200	Energy Efficiency	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/greeningepa/greenhouse-gases-epa	200	Greenhouse Gases	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/greeningepa/renewable-energy-epa	200	Renewable Energy	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/greeningepa/green-buildings-epa	200	Green Buildings	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/greeningepa/new-construction-and-renovations-epa	200	Construction & Renovation	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/greeningepa/high-performance-buildings-epa	200	Existing Buildings	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/greeningepa/facility-resiliency-epa	200	Facility Resiliency	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/greeningepa/water-management-epa	200	Water Management	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/greeningepa/landscaping-epa-facilities	200	Landscaping	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/greeningepa/epa-facility-stormwater-management	200	Stormwater Management	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/greeningepa/water-conservation-epa	200	Water Conservation	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/greeningepa/green-practices-epa	200	Green Practices	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/accessibility	200	Accessibility	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/aboutepa/epas-administrator	200	EPA Administrator	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/planandbudget	200	Budget & Performance	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/contracts	200	Contracting	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/grants	200	Grants	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://19january2017snapshot.epa.gov	200	January 19, 2017 Web Snapshot	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/ocr/whistleblower-protections-epa-and-how-they-relate-non-disclosure-agreements-signed-epa-employees	200	No FEAR Act Data	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/privacy	200	Privacy	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/privacy/privacy-and-security-notice	200	Privacy and Security Notice	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.data.gov/	200	Data.gov	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/office-inspector-general/about-epas-office-inspector-general	200	Inspector General	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/careers	200	Jobs	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/newsroom	200	Newsroom	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/open	200	Open Government	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.regulations.gov/	200	Regulations.gov	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/newsroom/email-subscriptions-epa-news-releases	200	Subscribe	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.usa.gov/	200	USA.gov	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.whitehouse.gov/	200	White House	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/home/forms/contact-epa	200	Contact EPA	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/home/epa-hotlines	200	Hotlines	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/foia	200	FOIA Requests	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.epa.gov/home/frequent-questions-specific-epa-programstopics	200	Frequent Questions	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.facebook.com/EPA	200	EPA's Facebook	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://twitter.com/epa	200	EPA's Twitter	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.youtube.com/user/USEPAgov	200	EPA's YouTube	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.flickr.com/photos/usepagov	200	EPA's Flickr	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.instagram.com/epagov	200	EPA's Instagram	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://twitter.com/intent/tweet?original_referer=https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations&text=Executive%20Order%2013834%3A%20Efficient%20Federal%20Operations&url=https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations&via=EPA&count=none&lang=en	200		date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.facebook.com/sharer.php?u=https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations&t=Executive%20Order%2013834%3A%20Efficient%20Federal%20Operations	200		date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/executive-order-13834-efficient-federal-operations	https://www.sustainability.gov/eo-efo.html%20	404	CEQs website	date	Executive Order 13834: Efficient Federal Operations | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov	200	Jump to main content	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/	200	EPA.gov	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://archive.epa.gov/	200	EPA Web Archive	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://19january2017snapshot.epa.gov/	200	January 19, 2017 Web Snapshot	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/	200	US EPA	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/environmental-topics	200	Environmental Topics	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/environmental-topics/air-topics	200	Air	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/bedbugs	200	Bed Bugs	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/environmental-topics/chemicals-and-toxics-topics	200	Chemicals and Toxics	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/environmental-topics/environmental-information-location	200	Environmental Information by Location	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/environmental-topics/greener-living	200	Greener Living	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/environmental-topics/health-topics	200	Health	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/environmental-topics/land-waste-and-cleanup-topics	200	Land, Waste, and Cleanup	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/lead	200	Lead	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/mold	200	Mold	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/pesticides	200	Pesticides	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/radon	200	Radon	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/environmental-topics/science-topics	200	Science	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/environmental-topics/water-topics	200	Water	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/environmental-topics/z-index	200	A-Z Index	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/laws-regulations	200	Laws & Regulations	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/regulatory-information-sector	200	By Business Sector	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/regulatory-information-topic	200	By Topic	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/compliance	200	Compliance	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/enforcement	200	Enforcement	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/laws-regulations/laws-and-executive-orders	200	Laws and Executive Orders	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/laws-regulations/policy-guidance	200	Policy and Guidance	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/laws-regulations/regulations	200	Regulations	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/aboutepa	200	About EPA	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/aboutepa/epas-administrator	200	EPA Administrator	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/aboutepa/current-epa-leadership	200	Current Leadership	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/aboutepa/epa-organization-chart	200	Organization Chart	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	http://cfpub.epa.gov/locator/index.cfm	200	Staff Directory	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/planandbudget	200	Planning, Budget and Results	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/careers	200	Jobs and Internships	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/aboutepa	200	Headquarters Offices	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/aboutepa	200	Regional Offices	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/aboutepa	200	Labs and Research Centers	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/greeningepa/forms/contact-us-about-greening-epa	200	Contact Us	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	mailto:%20?subject=Shared%20from%20the%20US%20EPA:%20Green%20Buildings%20at%20EPA&body=Green%20Buildings%20at%20EPA%20-%20https://www.epa.gov/greeningepa/green-buildings-epa	non url		date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/greeningepa/new-construction-and-renovations-epa	200	New Construction and Renovation at EPA	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/greeningepa/high-performance-buildings-epa	200	High-Performance Buildings at EPA	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/greeningepa/facility-resiliency-epa	200	Facility Resiliency at EPA Facilities	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/greeningepa/forms/contact-us-about-greening-epa	200	Contact Us	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/greeningepa	200	Greening EPA Home	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/greeningepa/epa-sustainability-plans	200	EPA Sustainability Plans	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/greeningepa/epa-sustainability-progress	200	EPA Sustainability Progress	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/greeningepa/federal-sustainability-requirements-and-guidelines	200	Federal Requirements	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/node/102053/	403	Energy and Emissions	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/greeningepa/energy-efficiency-epa	200	Energy Efficiency	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/greeningepa/greenhouse-gases-epa	200	Greenhouse Gases	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/greeningepa/renewable-energy-epa	200	Renewable Energy	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/greeningepa/green-buildings-epa	200	Green Buildings	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/greeningepa/new-construction-and-renovations-epa	200	Construction & Renovation	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/greeningepa/high-performance-buildings-epa	200	Existing Buildings	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/greeningepa/facility-resiliency-epa	200	Facility Resiliency	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/greeningepa/water-management-epa	200	Water Management	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/greeningepa/landscaping-epa-facilities	200	Landscaping	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/greeningepa/epa-facility-stormwater-management	200	Stormwater Management	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/greeningepa/water-conservation-epa	200	Water Conservation	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/greeningepa/green-practices-epa	200	Green Practices	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/accessibility	200	Accessibility	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/aboutepa/epas-administrator	200	EPA Administrator	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/planandbudget	200	Budget & Performance	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/contracts	200	Contracting	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/grants	200	Grants	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://19january2017snapshot.epa.gov	200	January 19, 2017 Web Snapshot	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/ocr/whistleblower-protections-epa-and-how-they-relate-non-disclosure-agreements-signed-epa-employees	200	No FEAR Act Data	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/privacy	200	Privacy	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/privacy/privacy-and-security-notice	200	Privacy and Security Notice	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.data.gov/	200	Data.gov	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/office-inspector-general/about-epas-office-inspector-general	200	Inspector General	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/careers	200	Jobs	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/newsroom	200	Newsroom	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/open	200	Open Government	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.regulations.gov/	200	Regulations.gov	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/newsroom/email-subscriptions-epa-news-releases	200	Subscribe	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.usa.gov/	200	USA.gov	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.whitehouse.gov/	200	White House	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/home/forms/contact-epa	200	Contact EPA	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/home/epa-hotlines	200	Hotlines	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/foia	200	FOIA Requests	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.epa.gov/home/frequent-questions-specific-epa-programstopics	200	Frequent Questions	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.facebook.com/EPA	200	EPA's Facebook	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://twitter.com/epa	200	EPA's Twitter	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.youtube.com/user/USEPAgov	200	EPA's YouTube	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.flickr.com/photos/usepagov	200	EPA's Flickr	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.instagram.com/epagov	200	EPA's Instagram	date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://twitter.com/intent/tweet?original_referer=https://www.epa.gov/greeningepa/green-buildings-epa&text=Green%20Buildings%20at%20EPA&url=https://www.epa.gov/greeningepa/green-buildings-epa&via=EPA&count=none&lang=en	200		date	Green Buildings at EPA | Greening EPA | US EPA
+https://www.epa.gov/greeningepa/green-buildings-epa	https://www.facebook.com/sharer.php?u=https://www.epa.gov/greeningepa/green-buildings-epa&t=Green%20Buildings%20at%20EPA	200		date	Green Buildings at EPA | Greening EPA | US EPA
