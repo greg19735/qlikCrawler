@@ -80,11 +80,16 @@ WebsiteObj("https://intranet.epa.gov/hqhs/",'hqhs',"https://intranet.epa.gov", "
                  ]
 
 
+internetTest = [WebsiteObj("https://www.epa.gov/faca",'faca',"https://www.epa.gov", "/faca", ".txt", "internet", True ),
+               WebsiteObj("https://www.epa.gov/careers",'careers',"https://www.epa.gov", "/careers", ".txt", "internet", False ),
+               WebsiteObj("https://www.epa.gov/grants",'grants',"https://www.epa.gov", "/grants", ".txt", "internet", False) ,
+               WebsiteObj("https://www.epa.gov/nscep",'nscep',"https://www.epa.gov", "/nscep", ".txt", "internet", False),
+               WebsiteObj("https://www.epa.gov/greeningepa", 'greeningepa', "https://www.epa.gov", "/greeningepa", ".txt", "internet", False) ]
 
 
 #oamintra now contracts
 
-allsites = test
+allsites = internetTest
 #allsites = intranetSites + internetSites
 
 
